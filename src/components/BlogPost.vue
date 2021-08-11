@@ -144,8 +144,4 @@ export default {
     color: #fff;
   }
 }
-
-.arrow {
-  max-height: 24px;
-}
 </style>
